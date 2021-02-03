@@ -1,3 +1,1 @@
-This is some text
-Dit is de toevoeging
-Dit is de toevoeging 2e x
+adding some text to the file
